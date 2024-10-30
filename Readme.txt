@@ -1,0 +1,3 @@
+- Open a conda prompt and activate environment with python 3.10
+- Locate the folder with "cd"
+- Run the command "streamlit run app.py"
